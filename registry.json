@@ -63,6 +63,23 @@
       "homepage": "https://github.com/router-for-me/cpa-plugin-gemini-cli",
       "license": "MIT",
       "tags": ["Provider"]
+    },
+    {
+      "id": "priority-auto-router",
+      "name": "Priority Auto Router",
+      "description": "Routes Claude Code and Codex CLI model alias requests through prioritized CPA provider candidates with automatic fallback.",
+      "author": "Amin",
+      "version": "0.1.0",
+      "repository": "https://github.com/Apparux/cpa-plugin-priority-auto-router",
+      "homepage": "https://github.com/Apparux/cpa-plugin-priority-auto-router",
+      "license": "MIT",
+      "tags": [
+        "Router",
+        "Model Router",
+        "Fallback",
+        "Claude",
+        "Codex"
+      ]
     }
   ]
 }
